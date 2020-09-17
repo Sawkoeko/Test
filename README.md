@@ -1,2 +1,2 @@
 # Test
-![](Test/finished-elk-diagrams.png)
+![](Images/elk-diagram.png)
